@@ -1,0 +1,46 @@
+.first{
+    background-color: yellowgreen;
+    width: 50%;
+    height: 50px;
+}
+.father-mother {
+    color: black;
+    background-color: cadetblue;
+
+}
+.our-family {
+    color: white;
+    background-color: black;
+}
+.article{
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 4px;
+    padding: 10px;
+}
+
+.article-2{
+    background-color: violet;
+    border: 4px dotted cyan;
+}
+.special{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+
+h1{
+    text-align: center;
+}
+
+.block{
+    display: block;
+}
+
+small{
+    display: block;
+}
+h2{
+    display: inline;
+}
